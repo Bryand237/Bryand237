@@ -65,8 +65,14 @@ enseignants de l'Université de Ngaoundéré.
 
 [#-activity](#-activity)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryand237&show_icons=true&theme=transparent&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryand237&layout=compact&theme=transparent&hide_border=true)
+<p align="center">
+  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=Bryand237&accent=6f42c1&cell=square&hide_border=true"/>
+  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=Bryand237&accent=6f42c1&cell=square&hide_border=true"/>
+</p>
+<p align="center">
+  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=Bryand237&accent=6f42c1&cell=square&hide_border=true"/>
+</p>
+
 
 ## Contact
 
