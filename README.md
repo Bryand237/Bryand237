@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Bryand%20Djounkam&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%94%20Yaound%C3%A9,%20Cameroon&descSize=16&descAlignY=65" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Djounkam%20Pandong%20Geraud%20Bryand&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%94%20Yaound%C3%A9,%20Cameroon&descSize=16&descAlignY=65" alt="header banner"/>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-FCC624?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
