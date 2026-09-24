@@ -12,7 +12,7 @@
 
 ---
 
-Software engineer (Licence Technologique, Génie Logiciel) based in Ngaoundéré,
+Software engineer (Licence Technologique, Génie Logiciel) based in Yaoundé,
 Cameroon. Most of my time outside coursework goes into two things: small
 Bash tools that remove friction from my own workflow, and a self-taught
 cybersecurity curriculum I'm working through one phase at a time.
