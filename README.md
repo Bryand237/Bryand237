@@ -37,7 +37,7 @@ is strictly necessary.
 
 [#a-few-things-here](#a-few-things-here)
 
-**[bash-tools](https://github.com/Bryand237/bash-tools.git)** — Personal Bash utilities: a
+**[bash-tools](https://github.com/Bryand237/bash-toolbox.git)** — Personal Bash utilities: a
 directory-bookmark navigator so I stop retyping the same `cd` paths, and a
 project-scaffolding dispatcher that sets up boilerplate based on the language
 I tell it.
