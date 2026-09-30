@@ -42,8 +42,7 @@ directory-bookmark navigator so I stop retyping the same `cd` paths, and a
 project-scaffolding dispatcher that sets up boilerplate based on the language
 I tell it.
 
-**[AGCE](https://github.com/Bryand237/AGCE.git)** — Application de gestion de la carrière des
-enseignants de l'Université de Ngaoundéré.
+**[AGCE](https://github.com/Bryand237/AGCE.git)** — Career management application for University of Ngaoundéré teaching staff.
 
 ## How I work
 
@@ -83,4 +82,4 @@ enseignants de l'Université de Ngaoundéré.
 
 ---
 
-*Profil en cours de construction — mis à jour au fil des projets.*
+*Profile under construction — updated as projects progress.*
